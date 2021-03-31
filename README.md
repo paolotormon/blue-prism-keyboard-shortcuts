@@ -3,23 +3,27 @@
 A collection of keyboard shortcuts for Blue Prism:
 
 ## Process Studio and Object Studio
-| To | Press | Notes |
+| Press | To | Notes |
 |-------------|----------|-------|
-| Action | <kbd>F4</kbd> |  |
-| Application Modeller | <kbd>Ctrl</kbd>+<kbd>I</kbd> |  | 
-| Calculation | <kbd>F7</kbd> |  |
-| Close | <kbd>Ctrl</kbd>+<kbd>Q</kbd> |  |
-| Cursor | <kbd>F2</kbd> |  |
-| Data Item | <kbd>F8</kbd> |  |
-| Decision | <kbd>F6</kbd> |  |
-| Find (advanced) | <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd> |  |
-| Help | <kbd>F1</kbd> |  |
-| Link | <kbd>F3</kbd> |  |
-| Run | <kbd>F5</kbd>|  |
-| Save | <kbd>Ctrl</kbd>+<kbd>S</kbd> |  |
-| Step In | <kbd>F11</kbd> |  |
-| Step Out | <kbd>Shift</kbd>+<kbd>F11</kbd> |  |
-| Step Over | <kbd>F10</kbd> |  |
+| <kbd>F1</kbd> | Help |  |
+| <kbd>F2</kbd> | Cursor |  |
+| <kbd>F3</kbd> | Link  |  |
+| <kbd>F4</kbd> | Action |   |
+| <kbd>F5</kbd>|  Run  |  |
+| <kbd>F6</kbd> | Decision  |  |
+| <kbd>F7</kbd> | Calculation  |  |
+| <kbd>F8</kbd> | Data Item |  |
+| <kbd>F9</kbd> | Collection |  |
+| <kbd>F10</kbd> | Step Over |  |
+| <kbd>F11</kbd> | Step In |  |
+| <kbd>Shift</kbd>+<kbd>F11</kbd> | Step Out |  |
+| <kbd>F12</kbd> | Full Screen |  |
+| <kbd>Ctrl</kbd>+<kbd>I</kbd> | Application Modeller |  | 
+| <kbd>Ctrl</kbd>+<kbd>Q</kbd> | Close  |  |
+| <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd> | Find (advanced) |  |
+| <kbd>Ctrl</kbd>+<kbd>S</kbd> | Save |  |
+
+
 
 ## Links
 * [SendKeys overview](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/sendkeys-statement#example), useful as a cheat sheet for Blue Prism's **Global Send Keys** feature.
